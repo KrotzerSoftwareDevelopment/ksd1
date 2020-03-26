@@ -31,7 +31,10 @@ Navigation
 App.js
 */
 
-
+.BackGround{
+    height: 100vh;
+    width: 100vw;
+}
 
 
 
